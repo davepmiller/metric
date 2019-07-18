@@ -1,4 +1,4 @@
-package metric;
+package org.laser.metric;
 
 import java.time.Instant;
 import java.time.Duration;
